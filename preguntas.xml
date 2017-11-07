@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem complexity="2" subject="Web" author="jvadillo001@ikasle.ehu.es">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value1> OBJECT </value1>
+			<value2> TABLE </value2>
+			<value3> DIV </value3>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem complexity="4" subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value1> HTTP </value1>
+			<value2> SMTP </value2>
+			<value3> Ninguna es correcta </value3>
+		</incorrectResponses>
+	</assessmentItem>
+    <assessmentItem complexity="3" subject="xml" author="gilengorrotxa@gmail.com"><itemBody><p>Funciona xml?</p></itemBody><correctResponse><value>claro</value></correctResponse><incorrectResponses><value1>por supuesto</value1><value2>obvio</value2><value3>ojala</value3></incorrectResponses></assessmentItem><assessmentItem complexity="2" subject="bar" author="gilengorrotxa@gmail.com"><itemBody><p>Estoy en el bar?</p></itemBody><correctResponse><value>para variar</value></correctResponse><incorrectResponses><value1>claro</value1><value2>como no </value2><value3>no</value3></incorrectResponses></assessmentItem></assessmentItems>
